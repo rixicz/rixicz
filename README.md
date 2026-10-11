@@ -10,4 +10,4 @@ You can find loads of logic gates, hack assembly programs and vm programs there!
 
 And lastly, I welcome you to see the [MicrosoftTechLearn](https://github.com/rixicz/MicrosoftTechLearn) repository. It documents my learning journey in various Microsoft technologies.
 
-Hope you have fun here!
+On the other hand, you don't have to limit yourselves only to those repositiories. Just go around and see for yourself!
