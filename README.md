@@ -1,0 +1,13 @@
+Hello there! Welcome to my Github profile.
+
+Now you are probably asking where to start as there are so many beautiful projects.
+
+Well, if I were you, I'd go for the calculator. It is not an artistic piece but the logic is bulletproof.
+Same for etch-a-sketch 
+
+However, if you are more intrigued about how to construct a whole new computer out of logic gates, have a look at the Nand2Tetris repo.
+You can find loads of logic gates, hack assembly programs and vm programs there!
+
+And lastly, I welcome you to see the MicrosoftTechLearn. It documents my learning journey in various Microsoft technologies.
+
+Hope you have fun here!
