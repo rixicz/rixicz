@@ -2,7 +2,7 @@ Hello there! Welcome to my Github profile.
 
 Now you are probably asking where to start as there are so many beautiful projects.
 
-If you just want to get a quick overview of myself, I recommend you to visit my [CV](https://github.com/rixicz/cvweb)
+If you just want to get a quick overview of myself, I recommend you to visit my [CV](https://github.com/rixicz/cvweb).
 
 As for projects, I'd go for the [Javascript calculator](https://github.com/rixicz/calculator). It is not an artistic piece but the logic is bulletproof and AI-free.
 Same for [etch-a-sketch](https://github.com/rixicz/etch-a-sketch). 
